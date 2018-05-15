@@ -42,7 +42,7 @@ html:-moz-full-screen-ancestor {
 }
 
 .reveal p span.slide-title {
-  color: yellow;
+  color: white;
   padding: 4px 15px;
   opacity: 0.75 !important;
   border-radius: 15px;
@@ -72,7 +72,7 @@ html:-moz-full-screen-ancestor {
   max-height: 2em;
   max-width: none;
 }
-ul{
+.reveal ul{
     list-style-type: square;
 }
 .gp-tip { font-size : 1.5em; }
