@@ -16,7 +16,7 @@
 
 ## Template Features
 
-- Code <br>Presenting |
+- Code Presenting |
 - Repo Source, Static Blocks, GIST |
 - Custom CSS Styling |
 - Slideshow Background Image |
