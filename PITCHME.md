@@ -5,7 +5,7 @@
 ---
 
 ## Tips!
-
+@title[Dicas]
 <br>
 
 @fa[arrows gp-tip](Press F to go Fullscreen)
