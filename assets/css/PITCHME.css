@@ -73,7 +73,7 @@ html:-moz-full-screen-ancestor {
   max-width: none;
 }
 ul{
-    list-style-type: lower-alpha;
+    list-style-type: square;
 }
 .gp-tip { font-size : 1.5em; }
 
