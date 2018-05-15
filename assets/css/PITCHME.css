@@ -6,8 +6,8 @@
  */
 
 body {
-  background: rgb(0, 225, 255);
-  /* background-color: rgb(23, 240, 255); */
+  /* background: rgb(0, 225, 255); */
+  background-color: rgb(23, 240, 255);
 }
 
 html:-webkit-full-screen-ancestor {
