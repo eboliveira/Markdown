@@ -111,7 +111,7 @@ http.createServer(function (request, response) {
 
 @fa[medium gp-contact](@gitpitch)
 
----?image=assets/image/gitpitch-audience.jpg&opacity=100
+---?image=assets/image/gitpitch-audience.jpg&opacity=50
 
 @title[Download this Template!]
 
